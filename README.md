@@ -10,10 +10,10 @@ For me I uses Eclipse to write and run the code.
 You may follow this guide to install Eclipse and python or you can use any other software that supports python as well.
 https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/eclipsepython.html
 
-To install python, you can go https://www.python.org/ to download python3
+To install python to run on terminal, you can go https://www.python.org/ to download python3
 and install python3.
 
-#Running on Terminal
+# Running on Terminal
 From the terminal change your directory to the downloaded repository folder.
 when you are at the terminal, to run test case type:
 

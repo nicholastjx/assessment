@@ -23,7 +23,7 @@ to run the application type:
 
 puython3 main.py
 
-#usage
+# usage
 To run the program open main.py and click run in Eclipse, the program will be able to run and show the program in Eclipse console..
 To run the test cases open unitTest.py and click run in Eclipse, the test cases and result will show in Eclipse console.
 To see the code implementation open leastTransaction.py to see the different funtions created for the program.
